@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1479568596 source:c:\users\nikolay\desktop\programs\oop\circle\main.cpp
+	"Circle.h"
+
+1479568801 c:\users\nikolay\desktop\programs\oop\circle\circle.h
+	<iostream>
+
+1480362072 source:c:\users\nikolay\desktop\programs\oop\circles\circle\main.cpp
+	"Circle.h"
+
+1482919565 c:\users\nikolay\desktop\programs\oop\circles\circle\circle.h
+	<iostream>
+	<cmath>
+
